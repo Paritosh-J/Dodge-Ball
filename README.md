@@ -9,8 +9,9 @@ Pygame
 
 ### Things yet to be added:
 1. Game over upon hit by a ball
-2. Difficulty Level
-3. Power Ups
-4. Health Bar (TENTATIVE)
-5. Score Board
-6. Cheat Codes (UNLOCKABLE)
+2. Sound Effects of throwing, hitting and game over
+3. Difficulty Level
+4. Power Ups
+5. Health Bar (TENTATIVE)
+6. Score Board
+7. Cheat Codes (UNLOCKABLE)
