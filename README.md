@@ -12,6 +12,6 @@ Pygame
 2. Sound Effects of throwing, hitting and game over
 3. Difficulty Level
 4. Power Ups
-5. Health Bar (TENTATIVE)
-6. Score Board
+5. Score Board
+6. Health Bar (TENTATIVE)
 7. Cheat Codes (UNLOCKABLE)
